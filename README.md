@@ -10,4 +10,6 @@ Hey folks! I'm Hang, an enthusiastic MS Business Analytics Candidate at the Univ
 
 Data Source: Customer Personality Analysis https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis.
 
+Thank you for your time!
+
 P/S: if you see an error in the end of Part 1, don't worry about it :) I already had the file for part 2 uploaded.
